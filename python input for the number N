@@ -1,0 +1,7 @@
+
+# Take input for the number N
+N = input()
+print(N)
+
+output:
+123
