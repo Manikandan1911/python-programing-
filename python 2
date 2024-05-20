@@ -1,0 +1,10 @@
+The value of 
+𝑁
+N lies between 1 and 100 (inclusive), making the computation straightforward and efficient.
+
+Implementation
+
+
+N = int(input().strip())
+total_courses = 2 * N
+print(total_courses)
